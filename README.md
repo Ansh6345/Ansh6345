@@ -43,5 +43,5 @@ I build structured, driver-based financial models and analyze businesses to gene
 
 ## 🔹 Contact
 
-- LinkedIn: https://www.linkedin.com/in/ansh-goyal-49788a321/  
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/ansh-goyal-49788a321  
+- Email: goyalansh39@gmail.com
