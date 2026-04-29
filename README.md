@@ -1,47 +1,17 @@
-## Hi there 👋
-
 # Ansh Goyal  
-### Financial Modeling | DCF Valuation | Investment Analysis  
+### Equity Research | Financial Modeling | Valuation  
 
-I build structured, driver-based financial models and analyze businesses to generate investment insights.
+Building sell-side level financial models and investment research.
 
----
+📊 Focus Areas:
+- DCF Valuation (FCFF / FCFE)
+- Equity Research (Sell-side style)
+- Financial Modeling (3-statement)
+- Indian Equity Markets
 
-## 🔹 Featured Project
+📌 Featured Work:
+- Trent Ltd — Full Equity Research Model
+- Global Sales Profitability Analysis
 
-### 📊 Trent Ltd – Financial Model & DCF Valuation
-- Built a 3-statement financial model with 5-year projections  
-- Developed DCF valuation and sensitivity analysis  
-- Linked financial statements and key business drivers  
-
-👉 Insight: Strong revenue growth but valuation appears stretched due to high reinvestment requirements  
-
----
-
-## 🔹 Projects
-
-- Global Sales Profitability Analysis (2021–2024)  
-- DCF Valuation Model  
-
----
-
-## 🔹 Skills
-
-- Financial Modeling  
-- DCF Valuation  
-- Microsoft Excel (Advanced)  
-- Financial Analysis  
-
----
-
-## 🔹 Focus Areas
-
-- Retail Industry  
-- Healthcare AI + Finance  
-
----
-
-## 🔹 Contact
-
-- LinkedIn: https://www.linkedin.com/in/ansh-goyal-49788a321  
-- Email: goyalansh39@gmail.com
+📫 Connect:
+LinkedIn: https://linkedin.com/in/ansh-goyal-49788a321
